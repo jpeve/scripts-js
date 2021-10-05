@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         InvGate Paste SIGET
 // @namespace    ar.jpeve.paste
-// @version      0.4
+// @version      0.5
 // @description  Mejora: pega el contenido copiado de InvGate dentro de Siget.
 // @author       Javier Peverelli
 // @match        http://siget.softtekosde.com:8080/siget/*
